@@ -1,7 +1,6 @@
 //SPDX-License-Identifier: MIT
-// Code re-written by Krypto Kiddo
-// Original code from  Questbook (openquest.xyz)
-
+// Programmed by Krypto Kiddo
+// Under guidance from www.openquest.xyz
 
 // Ethereum Development Quest 4 : Creating and Deploying your own Coin.
 
@@ -10,7 +9,6 @@
 // Deployed it on the Ropsten test network
 // Listed it on Uniswap
 // Added liquidity (as of this update, 1 iZED = 0.005 ETH)
-// Got the source code verified on Etherscan
 
 // Honestly,this quest was a little more fun than the usual ones. This time i was actually coding things on my own instead of just rewriting code.
 
