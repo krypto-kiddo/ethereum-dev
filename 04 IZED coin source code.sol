@@ -12,6 +12,7 @@
 
 // Honestly,this quest was a little more fun than the usual ones. This time i was actually coding things on my own instead of just rewriting code.
 
+// iZED Token Contract Address (Ropsten) : 0x4812f23e92BA7935658BeF714197cA2F40e80079
 
 // code begins below
 
