@@ -19,7 +19,7 @@ interface ECM {
     function sendNotification(address user, string memory title, string memory text, string memory image) external payable;
 
     // importing the get user price function so we can know whats the price to send the guy a notification
-    function getUserPrice(address user) external returns (uint);
+    function getUserPrice(address user) external returns (uint); // Tweaked this a little since it was raising a silly error;
 
 }
 
